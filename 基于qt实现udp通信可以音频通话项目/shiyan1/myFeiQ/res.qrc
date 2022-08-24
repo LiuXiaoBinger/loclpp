@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ede/_20220327123907.jpg</file>
+        <file>ede/3.jpg</file>
+        <file>ede/4.jpg</file>
+        <file>ede/5.jpg</file>
+        <file>ede/6.jpg</file>
+        <file>ede/hushi.jpg</file>
+        <file>ede/peview.jpg</file>
+        <file>ede/preview.jpg</file>
+        <file>ede/zhilang.jpg</file>
+        <file>ede/1.png</file>
+    </qresource>
+</RCC>
